@@ -201,7 +201,7 @@ body {
   .hearts {
     position: absolute;
     margin-left: 280px;
-    margin-top: 80px;
+    margin-top: 90px;
     z-index: -2;
   }
   
